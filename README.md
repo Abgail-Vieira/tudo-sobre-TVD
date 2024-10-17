@@ -1,0 +1,487 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title>Tudo sobre The Vampire Diaries</title>
+    <link rel="stylesheet" href="assets/css/style.css" />
+    <link
+      rel="shortcut icon"
+      href="./assets/imagens/favicon.jpg"
+      type="image/x-icon"
+    />
+  </head>
+  <body>
+    <div>
+      <div class="logo">
+        <img
+          src="./assets/imagens/The_Vampire_Diaries_TV_Logo.png"
+          width="200" alt="logo the vampire diaries"
+        />
+      </div>
+    </div>
+
+    <div class="bar"></div>
+
+    <div class="content">
+      <div class="sidebar">
+        <h2>Série de TV</h2>
+        <ul>
+          <li>
+            <a
+              href="https://pt.wikipedia.org/wiki/The_Vampire_Diaries_%28s%C3%A9rie_de_televis%C3%A3o%29"
+              target="_blank"
+              >The Vampire Diaries</a
+            >
+          </li>
+          <br /><br />
+          <li>
+            <a
+              href="https://pt.wikipedia.org/wiki/The_Originals_(s%C3%A9rie_de_televis%C3%A3o)"
+              target="_blank"
+              >The Originals</a
+            >
+          </li>
+          <br /><br />
+          <li>
+            <a
+              href="https://pt.wikipedia.org/wiki/Legacies_(s%C3%A9rie_de_televis%C3%A3o)"
+              target="_blank"
+              >Legacies</a
+            >
+          </li>
+        </ul>
+      </div>
+
+      <div class="main">
+        <h1>Tudo sobre The Vampire Diaries</h1>
+        <p>
+          The Vampire Diaries (bra: Diários de um Vampiro; prt: Diários do
+          Vampiro) é uma série de televisão americana de drama sobrenatural e
+          fantasia desenvolvida por Kevin Williamson e Julie Plec, baseada na
+          série literária de mesmo nome, da autora L. J. Smith. Estreou na
+          televisão americana pela emissora The CW em 10 de setembro de 2009 e
+          ficou no ar até 10 de março de 2017, após oito temporadas.
+        </p>
+
+        <p>
+          A série é situada em Mystic Falls, Virgínia, uma pequena cidade
+          fictícia assombrada por seres sobrenaturais de todas as espécies. O
+          foco inicial é o triângulo amoroso entre a estudante Elena Gilbert
+          (Nina Dobrev) e os irmãos Salvatore, Stefan (Paul Wesley) e Damon (Ian
+          Somerhalder), dois vampiros condenados a viver a eternidade lutando
+          pelo amor da mesma mulher. O episódio piloto foi ao ar em 10 de
+          setembro de 2009 e atraiu a maior audiência da história da emissora
+          desde a sua estreia em 2006. A primeira temporada teve uma média de
+          3,6 milhões de telespectadores.
+        </p>
+        <br />
+        <div class="iframe">
+          <iframe
+            width="500"
+            height="315"
+            src="https://www.youtube.com/embed/GLjxcX9oMlY?si=Km4YwS_FOW1ddsro"
+            title="YouTube video player"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            referrerpolicy="strict-origin-when-cross-origin"
+            allowfullscreen
+          ></iframe>
+          <figcaption class="fonte">Trailer The Vampire Diaries</figcaption>
+        </div>
+
+        <h2>Premissas</h2>
+        <hr />
+        <h3 id="1">1.ª temporada (2009-2010)</h3>
+        <p>
+          A série segue a vida de Elena Gilbert (Nina Dobrev),uma jovem
+          estudante de 17 anos, que após perder seus pais em um acidente de
+          carro, começou a lidar com o luto e a tristeza. Elena se apaixona por
+          um vampiro chamado Stefan Salvatore (Paul Wesley) e os dois começam um
+          relacionamento. A vida de Elena começa a se tornar feliz novamente,
+          porém, a relação dos dois acaba se tornando complicada com a chegada
+          do cruel irmão mais velho de Stefan, Damon (Ian Somerhalder), que
+          também é um vampiro. Ele retorna á cidade para atrapalhar a vida de
+          Stefan e para salvar sua amada Katherine Pierce (Nina Dobrev) de uma
+          tumba, onde supostamente está presa com outros vampiros desde 1864.
+        </p>
+        <br />
+
+        <h3 id="2">2.ª temporada (2010-2011)</h3>
+        <p>
+          Katherine revela-se estar viva por anos e retorna à Mystic Falls
+          alegando o seu amor imortal por Stefan, porém, os irmãos Salvatore
+          duvidam de sua palavra. Katherine é uma duplicata ancestral de Elena,
+          e junto com ela chegou também na cidade o misterioso Mason Lockwood
+          (Taylor Kinney), tio de Tyler (Michael Trevino). Damon insiste na
+          ideia de que existe algo de sobrenatural com a família Lockwood, e
+          descobre depois que todos os remanescentes da família descendem de
+          lobisomens. Katherine e Mason procuram um antigo artefato da família
+          Lockwood, para impedir a chegada de Klaus, um antigo inimigo.
+        </p>
+
+        <h3 id="3">3.ª temporada (2011-2012)</h3>
+        <p>
+          Klaus (Joseph Morgan), um membro da antiga família de vampiros
+          originais, planeja criar um exército de híbridos (criaturas metade
+          lobisomem e metade vampiro) a seu favor. Ele força Stefan a segui-lo
+          em sua jornada de criação dessas criaturas pelo sul do país. Embora
+          Stefan esteja o seguindo em dívida por Klaus ter salvado a vida de
+          Damon, Elena nunca desistiu de encontrar Stefan, mesmo quando ele foi
+          obrigado pelo Original a desligar sua humanidade. O desejo de
+          encontrar o namorado a fez se aproximar de Damon, que agora tem a
+          dificil missão de proteger Elena quando Klaus descobriu que para criar
+          seus híbridos, os memos precisam beber do sangue de Elena.
+        </p>
+        <figure>
+          <img
+            src="./assets/imagens/the-vampire-diaries-terceira-temporada.webp"
+            width="800"
+            alt="Poster da Serie"
+          />
+          <figcaption class="fonte">
+            Poster terceira temporada da série, estapando Paul Wesley (Stefen),
+            Nina Dobrev (Elena) e Ian Somerhalder (Damon).
+          </figcaption>
+        </figure>
+
+        <h3 id="4">4.ª temporada (2012-2013)</h3>
+        <p>
+          Elena acaba se transformando em vampira após morrer em um acidente de
+          carro na ponte Wickery, com o sangue de Damon ainda em seu organismo.
+          Agora ela tem que aprender a lidar com isso, no mesmo momento em que
+          todos descobrem que possivelmente há uma cura para o vampirismo.
+          Apesar de estar de volta com Stefan, ela tem sentimentos mais fortes
+          por Damon devido a um elo de transformação, algo incomum de acontecer.
+          Além de todos procurarem um modo de encontrar a cura, tentam ao mesmo
+          tempo encontrar uma maneira de quebrar a ligação existente entre Elena
+          e Damon. No meio de tudo isso, Klaus descobre que existe uma antiga
+          fraternidade de caçadores de vampiros obcecados chamada "Os Cinco",
+          que após Elena matar o caçador Connor (Todd Williams), seu irmão
+          Jeremy Gilbert (Steven R. McQueen) passa a ser o novo caçador através
+          do feitiço, algo que torna tudo ainda mais complicado.
+        </p>
+
+        <h3 id="5">5.ª temporada (2013-2014)</h3>
+        <p>
+          A busca pela cura resultou na liberdade de Silas, uma duplicata
+          milenar de Stefan, este por outro lado, foi preso em um cofre por
+          Silas e jogado numa pedreira. Silas quer a cura, e pra isso, terá que
+          beber o sangue de Katherine que se tranformou em humana. Elena iniciou
+          um relacionamento sério com Damon, enquanto Tessa/Qetsiyah (Janina
+          Gavankar), uma bruxa que no passado foi traída por Silas e quer
+          vingança, salva Stefan do cofre. Um novo vampiro aparece em Mystic
+          Falls, Enzo (Michael Malarkey), um antigo parceiro de Damon que busca
+          acertos de contas. Além disso, surgem os Viajantes, uma classe de
+          feiticeiros que estão condenados a não poder se estabelecer em lugar
+          nenhum, que procuram quebrar a maldição dos verdadeiros bruxos, bem
+          como fazer desaparecer toda a magia que não é pura ou criaturas que
+          criaram, tal como os vampiros. Por outro lado, revela-se a fragilidade
+          do "Outro Lado" e a existência de um lugar além deste para o qual
+          todos os seres sobrenaturais são atraídos.
+        </p>
+
+        <h3 id="6">6.ª temporada (2014-2015)</h3>
+        <p>
+          Com a destruição do "Outro Lado" que resultou nas mortes de Damon e
+          Bonnie (Kat Graham), Elena fica viciada em ervas enfeitiçadas para
+          poder ter ilusões com Damon. Alaric Saltzman (Matthew Davis), que
+          havia morrido e estava preso no "Outro Lado", retorna para o mundo dos
+          vivos e tem que se acostumar com sua condição de vampiro original.
+          Stefan tenta recomeçar uma nova vida com uma namorada e um trabalho
+          novo como mecânico de carros. Jeremy tenta esquecer seu passado com
+          Bonnie, dormindo com uma garota diferente a cada noite e se afundando
+          nos vícios. Caroline (Candice King) fica preocupada com a situação de
+          todos estes, incluindo Bonnie e Damon, que não morreram e estão presos
+          em uma realidade alternativa vivendo o mesmo dia (10 de maio de 1994).
+          Eles conhecem Kai Parker (Chris Wood), um bruxo que absorve a magia
+          dos outros bruxos e ele também busca ser o mais forte bruxo de seu
+          coven Gemini, para punir aqueles que o traíram em 1994. Damon e Bonnie
+          percebem que Kai é uma nova ameaça.
+        </p>
+
+        <figure>
+          <img
+            src="./assets/imagens/the-vampire-diaries-7.png"
+            width="800"
+            alt="Poster da Serie"
+          />
+          <figcaption class="fonte">
+            Poster sétima temporada da série.
+          </figcaption>
+        </figure>
+
+        <h3 id="7">7.ª temporada (2015-2016)</h3>
+        <p>
+          Após Kai Parker ter fugido de sua prisão da dimensão de 1994, ele
+          destroi o coven Gemini e acaba infeitiçando Elena com um sono profundo
+          para se vingar de Damon e Bonnie. Elena só acordará quando Bonnie
+          estiver morta. Damon também tem que lidar com a chegada de Lily
+          Salvatore (Annie Wersching) e sua família de hereges, que buscam
+          trazer de volta à vida um vampiro perigoso chamado Julian (Todd
+          Lasance), seu ex-líder e parceiro de Lily. Além disso, Caroline
+          descobre que em seu ventre carrega os gêmeos de Jo e Alaric (que havia
+          se transformado em humano) graças a um feitiço que o coven Gemini
+          lançou antes de ser morto por Kai. Também apresenta uma narrativa
+          dupla, combinando o presente com um salto para três anos depois, onde
+          uma poderosa caçadora caça vampiros e os tranca em uma pedra mágica
+          que mostra seus piores pecados.
+        </p>
+
+        <h3 id="8">8.ª temporada - Season Finale (2016-2017)</h3>
+        <p>
+          Com a caçadora de vampiros derrotada, agora o grupo de amigos precisa
+          lidar com mais um problema. Damon Salvatore e Enzo St. John são
+          possuídos por uma força sobrenatural desconhecida, mais tarde revelada
+          como a sereia Sybil (Nathalie Kelley). Desamparados com o
+          desaparecimento de Damon e Enzo, Stefan luta incansavelmente para
+          achar seu irmão, enquanto Bonnie mantém sofridamente as esperanças de
+          que irá conseguir achar Enzo. Caroline e Alaric suspeitam que alguém
+          esteja armando contra eles, e não desconfiam que Seline (Kristen
+          Gutoskie), a babá das gêmeas Lizzie e Josie (filhas gêmeas de Alaric e
+          Jo, porém, geradas por Caroline), é uma sereia também. Ela tem o
+          objetivo de oferecer as gêmeas para Arcadius (Wolé Parks) - conhecido
+          como Diabo - para que as garotas trabalharem como suas mensageiras
+          infernais, e, assim, livrar ela e sua irmã Sybil desse fardo milenar.
+          Agora, Sfetan e seus amigos teram que correr contra o tempo para
+          salvar quem eles amam.
+        </p>
+        <figure>
+          <img
+            src="./assets/imagens/202098-6db62-36553358-m750x740-u7d09b.webp"
+            width="800"
+            alt="Poster da Serie"
+          />
+          <figcaption class="fonte">Poster promocional da série.</figcaption>
+        </figure>
+        <hr />
+        <h2 id="elenco" class="elenco">Elenco</h2>
+
+        <p>
+          O elenco principal da série ao longo de oito temporadas foi
+          constituído pelos atores Nina Dobrev, Paul Wesley, Ian Somerhalder,
+          Steven R. McQueen, Sara Canning, Kat Graham, Candice King, Zach
+          Roerig, Kayla Ewell, Michael Trevino, Matthew Davis, Joseph Morgan e
+          Michael Malarkey.
+        </p>
+        <hr />
+
+        <h2 id="selecao" class="selecao">Seleção do Elenco</h2>
+        <p>
+          Durante a seleção do elenco, o ator Steven R. McQueen (Jeremy Gilbert)
+          foi anunciado em 28 de fevereiro de 2009, seguido pela atriz principal
+          Nina Dobrev (Elena Gilbert e Katherine Pierce) em 8 de março. Ian
+          Somerhalder (Damon Salvatore), Zach Roerig (Matt Donovan) e Kayla
+          Ewell (Vicki Donovan) foram anunciados em 25 de março. O resto dos
+          personagens principais, Katerina Graham (Bonnie Bennett), Candice King
+          (Caroline Forbes), Michael Trevino (Tyler Lockwood), Sara Canning
+          (Jenna Sommers) e Paul Wesley (Stefan Salvatore), foram confirmados
+          alguns dias depois. Em 6 de abril de 2015, a atriz principal Nina
+          Dobrev, confirmou que ela e o co-estrela Michael Trevino (que
+          interpreta Tyler Lockwood) estariam deixando a série após sua sexta
+          temporada. Dobrev voltou a gravar uma narração para o final da sétima
+          temporada e voltou como estrela convidada no último episódio da série.
+          Trevino apareceu como ator convidado na sétima temporada e voltou para
+          a oitava temporada.
+        </p>
+        <br />
+        <hr />
+
+        <h2 id="premios" class="premios">Prêmios Recebidos</h2>
+        <p>
+          No People's Choice Awards de 2010, a série ganhou a categoria de
+          "Melhor Série Nova de Drama" e na edição de 2012 a atriz Nina Dobrev
+          ganhou como "Atriz Favorita de Drama de TV". No People's Choice Awards
+          de 2014, os personagens Damon Salvatore e Elena Gilbert ganharam a
+          categoria de "Química Favorita na Tela" e o ator Ian Somerhalder
+          ganhou como "Ator Favorito de Ficção Científica/Fantasia na TV". Já em
+          2015, os atores Ian Somerhalder e Nina Dobrev ganharam a categoria de
+          "Casal Favorito da TV". No Teen Choice Awards, The Vampire Diaries
+          ganhou a categoria "Programa de TV de Sucesso Escolhido" em 2010 e
+          ganhou por sete vezes como "Programa de TV Escolhido: Fantasia/Ficção
+          Científica" de 2010 à 2015. A atriz Nina Dobrev ganhou como "Escolhida
+          da TV: Estrela Feminina de Sucesso" em 2010 e por seis vezes como
+          "Atriz Escolhida da TV: Fantasia/Ficção Científica" (2010-2015). Paul
+          Wesley ganhou como o "Escolhido da TV: Astro Masculino de Sucesso" e
+          "Ator Escolhido da TV: Fantasia/Ficção Científica" apenas em 2010. Já
+          Ian Somerhalder, ganhou a categoria "Escolhido da TV: Vilão" em 2010 e
+          recebeu o prêmio de "Ator Escolhido da TV: Fantasia/Ficção Científica"
+          quatro vezes (2011-2014). Em 2011, os atores Kat Graham e Michael
+          Trevino ganharam as categorias "Escolhido da TV: Roubo de Cena
+          Feminino" e "Escolhido da TV: Roubo de Cena Masculino",
+          respectivamente. Kat também recebeu o prêmio de "Atriz Escolhida da
+          TV: Fantasia/Ficção Científica" em 2017. No Young Hollywood Awards de
+          2010, Nina Dobrev, Paul Wesley e Ian Somerhalder ganharam a categoria
+          "Cast to Watch" e Nina Dobrev ganhou o "Making Their Mark". Em 2014,
+          Dobrev, Wesley e Somerhalder também ganharam como "Melhor Trisal". No
+          MTV Fandom Awards de 2011 os personagens Damon Salvatore e Elena
+          Gilbert ganharam como o "Ship do Ano".
+        </p>
+
+        <figure>
+          <img
+            src="./assets/imagens/premiação.jpg"
+            alt="foto nina e ian premiação"
+            width="500px"
+          />
+          <figcaption class="fonte">
+            Nina Dobrev e Ian Somerhalder ganham o prêmio de Melhor Química na
+            tela no People's Choice Awards 2014
+          </figcaption>
+        </figure>
+      </div>
+
+      <div class="anchors">
+        <h2>Mundo TVD</h2>
+
+        <details>
+          <summary>Premissas</summary>
+
+          <ul>
+            <li><a href="#1">1ª Temporada (2009-2010)</a></li>
+            <li><a href="#2">2ª Temporada (2010-2011)</a></li>
+            <li><a href="#3">3ª Temporada (2011-2012)</a></li>
+            <li><a href="#4">4ª Temporada (2012-2013)</a></li>
+            <li><a href="#5">5ª Temporada (2013-2014)</a></li>
+            <li><a href="#6">6ª Temporada (2014-2015)</a></li>
+            <li><a href="#7">7ª Temporada (2015-2016)</a></li>
+            <li><a href="#8">8ª Temporada (2016-2017) - Season Finale </a></li>
+            <br />
+            <li><a href="#elenco">Elenco</a></li>
+            <br />
+            <li><a href="#selecao">Seleção do Elenco</a></li>
+            <br />
+            <li><a href="#premios">Prêmios Recebidos</a></li>
+            <br />
+          </ul>
+        </details>
+
+        <ul></ul>
+        <hr />
+
+        <h2>Projetos derivados</h2>
+        <h3>The Vampire Diaries: A Darker Truth</h3>
+        <p>
+          The Vampire Diaries: A Darker Truth é uma série promocional para a web
+          que segue Jason Harris investigando a estranha morte de sua irmã,
+          Jordan Harris. Essa websérie foi lançada entre 25 de agosto de 2009 a
+          8 de setembro de 2009.
+        </p>
+        <br />
+        <hr />
+        <h3>The Originals</h3>
+        <span
+          ><figcaption>
+            <img
+              src="./assets/imagens/The_Originals.png"
+              width="200"
+              alt="logo the originals"
+            />
+          </figcaption>
+          <br />
+          <img
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Magnifying_glass_01.svg/26px-Magnifying_glass_01.svg.png"
+            alt=""
+          />
+          <small>
+            Ver artigo completo:
+            <a
+              href="https://pt.wikipedia.org/wiki/The_Originals_(s%C3%A9rie_de_televis%C3%A3o)"
+              target="_blank"
+            >
+              The Originals</a
+            >
+          </small>
+
+          <p>
+            Em 2010, a ex-presidente de entretenimento da CW, Dawn Ostroff,
+            mencionou uma ideia de spin-off que poderia acontecer em alguns
+            anos. Um spin-off então começou a ser desenvolvido no outono de
+            2011, mas devido o compromisso de Kevin Williamson com o The Secret
+            Circle, foi colocado em espera indefinidamente. Em 26 de abril de
+            2013, a The CW anunciou que The Originals tinha sido ordenado para
+            uma estreia na temporada de televisão de 2013–14. The Originals
+            estreou em 3 de outubro de 2013. Daniel Gillies como Elijah, Claire
+            Holt como Rebekah e Phoebe Tonkin como Hayley continuaram a
+            interpretar seus personagens, originalmente de The Vampire Diaries,
+            na nova série spin-off. The Originals é sobre os irmãos Mikaelson,
+            que são a família original dos vampiros, e sua conquista do Bairro
+            Francês de Nova Orleans. O show também envolve a filha de Hayley e
+            Klaus, Hope.
+          </p></span
+        >
+
+        <br />
+        <hr />
+
+        <h3>The Originals: The Awakening</h3>
+        <p>
+          Em novembro de 2014, uma série para web intitulada The Originals: The
+          Awakening foi lançada como o terceiro show da franquia The Vampire
+          Diaries. A série explora o personagem Kol Mikaelson (Nathaniel
+          Buzolic) e sua relação com seus irmãos. A websérie é ambientada em
+          1914, quando Kol está em uma missão para se aliar às bruxas do Bairro
+          Francês. Em busca de respostas a algumas perguntas sobre o passado de
+          Kol, incluindo as origens de sua rivalidade com sua família e a
+          história única que ele tem com as bruxas de Nova Orleans. A websérie
+          tem 4 websodes de aproximadamente dois minutos de duração. A websérie
+          foi concluída em 8 de dezembro de 2014.
+        </p>
+        <br />
+        <hr />
+
+        <h3>Legacies</h3>
+        <span>
+          <figcaption>
+            <img
+              src="./assets/imagens/Legacies.png"
+              width="200"
+              alt="logo legacies"
+            />
+          </figcaption>
+          <br />
+          <img
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Magnifying_glass_01.svg/26px-Magnifying_glass_01.svg.png"
+            alt=""
+          />
+          <small>
+            Ver artigo completo:
+            <a
+              href="https://pt.wikipedia.org/wiki/Legacies_(s%C3%A9rie_de_televis%C3%A3o)"
+              target="_blank"
+              >Legacies</a
+            ></small
+          >
+          <p>
+            Em agosto de 2017, foi anunciado que as primeiras discussões sobre o
+            desenvolvimento de um spinoff de The Originals com foco em Hope
+            Mikaelson, filha de Klaus Mikaelson (Joseph Morgan) e Hayley
+            Marshall (Phoebe Tonkin), estavam ocorrendo com Julie Plec, criadora
+            de The Originals e co-criadora de The Vampire Diaries.Em janeiro de
+            2018, foi revelado que um piloto para o spinoff havia sido
+            encomendado; Plec escreveu o roteiro do piloto e é creditada com a
+            criação da série. Foi anunciado em março de 2018 que o spinoff havia
+            sido ordenado para o piloto, mas em vez de um piloto tradicional,
+            uma apresentação piloto de quinze minutos da série seria apresentada
+            ao The CW. Em 11 de maio de 2018, foi anunciado que o spinoff,
+            intitulado Legacies, havia sido encomendado para a temporada de
+            televisão dos Estados Unidos de 2018-19. Em junho de 2018, foi
+            anunciado que a série iria estrear em 25 de outubro de 2018. Em 8 de
+            outubro de 2018, a CW anunciou que havia pedido três roteiros
+            adicionais para a série, elevando a ordem total do roteiro da
+            primeira temporada para dezesseis episódios.
+          </p></span
+        >
+      </div>
+    </div>
+
+    <div class="footer">
+      <p class="rodape">
+        Esta página foi editada pela última vez às
+        <time pubdate>19:32min de 16 de outubro de 2024.</time>
+      </p>
+    </div>
+  </body>
+</html>
